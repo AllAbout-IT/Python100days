@@ -40,7 +40,7 @@ restoflife=int(yearsoflife)-int(age)
 
 restofdays=restoflife*365
 restofweeks=restoflife*52
-restofmonths=restoflife*12a
+restofmonths=restoflife*12
 
 print(f"You have {restofdays} days, {restofweeks} weeks, and {restofmonths} months left")
 
